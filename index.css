@@ -21,3 +21,7 @@ h2{
     height: 310px;
     margin: 10px;
 }
+.flex-item span{
+   color: pink;
+   font-size: 15px;
+}
