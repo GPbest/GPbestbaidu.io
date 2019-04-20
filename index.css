@@ -1,6 +1,7 @@
 h2{
-  font-size: 50px;
-  margin:50px auto;
+  font-size: 100px;
+  color: #fff;
+  margin-top: 30px;
   text-align: center;
-  text-shadow:10px 10px 8px white;
+  text-shadow:2px 2px 4px #000;//水平偏移量和垂直偏移量设置相同的值
 }
