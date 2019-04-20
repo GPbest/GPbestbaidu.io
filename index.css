@@ -4,3 +4,22 @@ h2{
   text-align: center;
   text-shadow:2px 2px 4px #000;//水平偏移量和垂直偏移量设置相同的值
 }
+.flex-container {
+	margin:auto;
+	border-radius: 6px;
+    display: -webkit-flex;
+    display: flex;
+    width: 630px;
+    height: 330px;
+    background-color: lightgrey;
+}
+
+.flex-item {
+    background-color: cornflowerblue;
+    border-radius: 4px;
+    width: 200px;
+    height: 310px;
+    margin: 10px;
+}
+</style>
+</head>
